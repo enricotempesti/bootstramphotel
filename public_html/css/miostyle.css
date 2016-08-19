@@ -7,4 +7,18 @@ and open the template in the editor.
     Created on : 17-ago-2016, 22.05.41
     Author     : enrico
 */
+body{
+    padding-top: 30px;
+}
 
+.form-inline{
+    padding-top: 15px;
+    padding-bottom: 50px;
+    background-image:url(../img/campanino.jpg);
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+}
