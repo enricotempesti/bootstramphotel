@@ -8,17 +8,94 @@ and open the template in the editor.
     Author     : enrico
 */
 body{
-    padding-top: 30px;
+    padding-top: 15px;
+}
+
+h2 a{
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-transform: uppercase;
+    color: #627D00;
 }
 
 .form-inline{
     padding-top: 15px;
     padding-bottom: 50px;
     background-image:url(../img/campanino.jpg);
+    margin: 20px;
+    border:#627D00 solid  2px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px grey;
 }
 
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
+    width: 70%;
+    margin: auto;
 }
+
+.head{
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px grey;
+    background: #F5F8E6;
+}
+
+.contact{
+    padding-top: 20px;
+    padding-left: 60px;
+}
+
+.logo{
+
+    background-image: url(../img/aguasclaras.bmp);
+    background-repeat: no-repeat;
+    background-position: 15px 20px;     
+}
+
+.logotext{
+    padding: 15% 20% 15% 20%;
+}
+
+.carosello_container{
+    padding: 15px;
+}
+
+.carosello{
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px grey;
+    background: #F5F8E6;
+}
+
+.text_titolo{
+    padding-top:30px;
+    padding-bottom: 15px; 
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-transform: uppercase;
+    color: #627D00; 
+}
+
+.servizi{
+    padding-top:30px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+.servizi_icona{
+    display: block;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    box-shadow: 0px 0px 10px rgba(119, 119, 119, 0.25);
+}
+
+
+.servizitext{
+    text-align: center;
+}
+.text-mas{
+    padding: 15px 40px 20px 0px;
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-transform: uppercase;
+    color: #627D00; 
+}
+
