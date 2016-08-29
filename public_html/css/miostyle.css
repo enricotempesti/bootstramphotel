@@ -34,9 +34,7 @@ h2 a{
 }
 
 .head{
-    border-radius: 10px;
-    box-shadow: 10px 10px 5px grey;
-    background: #F5F8E6;
+   padding-bottom: 15px;
 }
 
 .contact{
@@ -112,5 +110,17 @@ h2 a{
 
 .upcoming{
  padding: 20px;   
+}
+
+.textarea{
+    height: 400;
+}
+
+.text-mas_contact{
+    padding: 15px 40px 20px 20px;
+    text-align: left;
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-transform: uppercase;
+    color: #627D00; 
 }
 
