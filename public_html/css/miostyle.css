@@ -24,7 +24,13 @@ h2 a{
     margin: 20px;
     border:#627D00 solid  2px;
     border-radius: 10px;
-    box-shadow: 10px 10px 5px grey;
+    box-shadow: -10px 10px 5px  grey;
+}
+.imgcal{
+    padding-left: 10px;
+}
+.xsform {
+    padding-bottom: 15px;
 }
 
 .carousel-inner > .item > img,
@@ -60,7 +66,7 @@ h2 a{
 
 .carosello{
     border-radius: 10px;
-    box-shadow: 10px 10px 5px grey;
+    box-shadow: -10px 10px 5px grey;
 }
 
 .text_titolo{
@@ -72,6 +78,24 @@ h2 a{
     color: #627D00; 
 }
 
+.aboutleft{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.aboutcenter1{
+    padding-bottom: 40px;
+}
+.aboutcenter{
+    padding-top: 10px;
+    padding-bottom: 20px;
+        padding-left: 25px;
+    padding-right: 25px;
+}
+
+.servicecenter{
+    text-align: center;
+    padding-top: 40px;
+}
 .servizi{
     padding-top:30px;
     padding-bottom: 15px;
@@ -95,12 +119,6 @@ h2 a{
     font-family: 'PT Sans Narrow', sans-serif;
     text-transform: uppercase;
     color: #627D00; 
-}
-
-#imgservizi{
-    border-radius: 10px;
-    box-shadow: 10px 10px 5px grey;
-    background: #F5F8E6;
 }
 
 .imagerisultati{
